@@ -11,8 +11,7 @@
     "require": {
         "php": "^7.4",
         "slim/psr7": "^0.6.0",
-        "slim/slim": "^4.3"
-    },
-    "require-dev": {
+        "slim/slim": "^4.3",
+        "php-di/php-di": "^6.0"
     }
 }
