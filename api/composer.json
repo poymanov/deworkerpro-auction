@@ -1,0 +1,17 @@
+{
+    "name": "poymanov/deworkerpro-demo-auction",
+    "type": "project",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Nicolay Poymanov",
+            "email": "n.poymanov@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.4"
+    },
+    "require-dev": {
+        "roave/security-advisories": "dev-latest"
+    }
+}
